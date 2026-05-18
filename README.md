@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @IsaacKuria2
-- 👀 I’m interested in analysis
-- 🌱 Data Science
-- 💞️ I’m looking to collaborate in creating models
+- 👋 Hi, I’m Isaac
+- 👀 Data Analyst | Computer Vision Enthusiast | ICT Support Specialist | Humanitarian Volunteer | Open to Opportunities  ✳️
+- 💞️ I’m looking to collaborate
 
 <!---
 IsaacKuria2/IsaacKuria2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
